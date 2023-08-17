@@ -66,6 +66,10 @@ input {
   .ops {
     color: #266599;
   }
+
+#inputBox {
+  margin-bottom: 5vh;
+}
   
 
 @media (max-width: 500px) {
